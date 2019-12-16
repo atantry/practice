@@ -2,3 +2,4 @@
 date
 echo "Welcome Avinash!"
 echo "Having fun with git"
+echo "$HOSTNAME"
